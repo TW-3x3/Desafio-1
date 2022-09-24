@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-!(Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/55215970/192101905-f33e7902-d8a5-4554-bcbb-bc58f597fc3e.png)
 
 ### Links
 
